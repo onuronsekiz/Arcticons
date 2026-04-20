@@ -560,7 +560,6 @@
         contribution="Icon creator"
         image="https://avatars.githubusercontent.com/u/76511536"
         link="https://github.com/onuronsekiz" />
-
      <contributor
         name="MikeTheGreat"
         contribution="Icon creator"
@@ -682,10 +681,10 @@
         image="https://github.com/albertjohnsonpc.png"
         link="https://github.com/albertjohnsonpc" />
     <contributor
-	    name="Finn Freitag"
-	    contribution="Icon Creator"
-	    image=""
-	    link="https://github.com/fwinn" />
+        name="Finn Freitag"
+        contribution="Icon Creator"
+        image=""
+        link="https://github.com/fwinn" />
     <contributor
         name="wbstkr"
         contribution="Icon Creator"
@@ -711,36 +710,36 @@
         contribution="Icon Creator"
         image=""
         link="https://github.com/gewaleelek" />
-	<contributor
-		name="Anmol B"
-		contribution="Icon Creator"
-		image=""
-		link="https://github.com/Cod3rQwerty" />
+    <contributor
+        name="Anmol B"
+        contribution="Icon Creator"
+        image=""
+        link="https://github.com/Cod3rQwerty" />
     <contributor
         name="V Baxter"
         contribution="Icon Creator"
         image="https://avatars.githubusercontent.com/u/61354164"
         link="https://github.com/Noisyash" />
     <contributor
-		name="Phillip Kulikov"
-		contribution="Icon Creator"
-		image=""
+        name="Phillip Kulikov"
+        contribution="Icon Creator"
+        image=""
         link="https://github.com/phizlip" />
     <contributor
-		name="JoseFilipeFerreira"
-		contribution="Icon Creator"
-		image="https://avatars.githubusercontent.com/u/36403066?v=4"
-		link="https://github.com/JoseFilipeFerreira" />
+        name="JoseFilipeFerreira"
+        contribution="Icon Creator"
+        image="https://avatars.githubusercontent.com/u/36403066?v=4"
+        link="https://github.com/JoseFilipeFerreira" />
     <contributor
         name="camradex"
         contribution="Icon Creator"
         image=""
         link="https://github.com/camradex" />
     <contributor
-	    name="qappell"
-	    contribution="Icon Creator"
-	    image=""
-	    link="https://github.com/qappell" />
+        name="qappell"
+        contribution="Icon Creator"
+        image=""
+        link="https://github.com/qappell" />
     <contributor
         name="trainlos"
         contribution="Icon Creator."
@@ -781,7 +780,7 @@
         contribution="Icon Creator."
         image="https://avatars.githubusercontent.com/u/78199108?v=4"
         link="https://github.com/terazik-mubaloo" />
-	<contributor
+    <contributor
         name="Tapeykatt"
         contribution="Icon Creator"
         image="https://avatars.githubusercontent.com/u/136388581?v=4"
@@ -801,7 +800,7 @@
         contribution="Icon Creator."
         image="https://avatars.githubusercontent.com/u/58890327"
         link="https://github.com/runthebot" />
-	<contributor
+    <contributor
         name="Jellify"
         contribution="Icon Creator."
         image="https://avatars.githubusercontent.com/u/211732408"
@@ -836,7 +835,7 @@
         contribution="Icon Creator"
         image="https://avatars.githubusercontent.com/u/114307848"
         link="https://github.com/nils-affentranger" />
-	<contributor
+    <contributor
         name="babyhuehnchen"
         contribution="Icon Creator"
         image="https://avatars.githubusercontent.com/u/86314128"
@@ -856,15 +855,19 @@
         contribution="Icon Creator"
         image=""
         link="https://github.com/ZeiberKreim" />
-	 <contributor
+    <contributor
         name="Elnix90"
         contribution="Icon Creator"
         image="https://avatars.githubusercontent.com/u/150185321"
         link="https://github.com/Elnix90" />
-     <contributor
+    <contributor
          name="Kilian Hofer"
          contribution="Icon Creator"
          image="https://avatars.githubusercontent.com/u/72510134"
          link="https://github.com/KilianHofer" />
-
+    <contributor
+        name="9x6"
+        contribution="Icon Creator"
+        image=""
+        link="https://github.com/9x6" />
 </resources>
